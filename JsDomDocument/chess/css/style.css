@@ -1,0 +1,13 @@
+
+.box{
+    width: 200px;
+    height: 170px;
+    border: 1px solid red;
+   
+}
+.bg-dark{
+    background-color: black;
+}
+.bg-light{
+    background-color: rgb(179, 172, 172);
+}
